@@ -1,0 +1,30 @@
+body{
+    background-color:rgb(247, 242, 237);
+}
+
+.cont{
+    padding: 15px 15px 15px 15px;
+    width: auto;
+    border-radius: 10px;
+    display: flex;
+    word-wrap: wrap;
+    background-color: #E9E8E2;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    max-width: 600px;
+    margin-top: 15px;
+}
+
+a{
+    color: black;
+    padding: 10px 35px 10px 35px;
+    text-decoration: none;
+    border-radius: 10px;
+    background-color: rgb(173, 169, 169);
+}
+
+img{
+    padding-right: 15px;
+    width:150px;
+    height: 150px;
+}
