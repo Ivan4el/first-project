@@ -28,3 +28,11 @@ img{
     width:150px;
     height: 150px;
 }
+
+a.button { 
+    color: black; 
+    padding: 10px 35px 10px 35px; 
+    text-decoration: none; 
+    border-radius: 10px; 
+    background-color: rgb(173, 169, 169); 
+}
